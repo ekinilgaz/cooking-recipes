@@ -38,6 +38,7 @@
 
 <div class="recipe">
     <h2>🍝 Pasta</h2>
+    <img src="pasta.webp" alt="Pasta">
     <p><strong>Ingredients:</strong></p>
     <ul>
         <li>Pasta</li>
@@ -101,6 +102,7 @@
 
 <div class="recipe">
     <h2>🍋 Lemon Cheesecake</h2>
+    <img src="lemoncheescake.jpg" alt="Lemon Cheescake">
     <p><strong>Ingredients:</strong></p>
     <ul>
         <li>200g biscuits</li>
