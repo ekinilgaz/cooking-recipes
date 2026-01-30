@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My Cooking Recipes</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #fff8f0;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #ff7043;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        .recipe {
+            background: white;
+            margin: 20px;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h2 {
+            color: #ff7043;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>🍽️ My Cooking Recipes</h1>
+    <p>Simple and tasty food recipes</p>
+</header>
+
+<div class="recipe">
+    <h2>🍕 Cheese Pizza</h2>
+    <p><strong>Ingredients:</strong></p>
+    <ul>
+        <li>Pizza dough</li>
+        <li>Tomato sauce</li>
+        <li>Mozzarella cheese</li>
+    </ul>
+    <p><strong>Steps:</strong></p>
+    <ol>
+        <li>Preheat oven to 200°C</li>
+        <li>Spread sauce on dough</li>
+        <li>Add cheese</li>
+        <li>Bake for 15 minutes</li>
+    </ol>
+</div>
+
+<div class="recipe">
+    <h2>🍝 Pasta</h2>
+    <p><strong>Ingredients:</strong></p>
+    <ul>
+        <li>Pasta</li>
+        <li>Salt</li>
+        <li>Sauce</li>
+    </ul>
+    <p><strong>Steps:</strong></p>
+    <ol>
+        <li>Boil water with salt</li>
+        <li>Add pasta</li>
+        <li>Cook for 10 minutes</li>
+        <li>Add sauce</li>
+    </ol>
+</div>
+
+</body>
+</html>
