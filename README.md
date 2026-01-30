@@ -58,6 +58,7 @@
 
 <div class="recipe">
     <h2>🍔 Burger</h2>
+    <img src="burger.jpg" alt="Burger">
     <p><strong>Ingredients:</strong></p>
     <ul>
         <li>Burger buns</li>
