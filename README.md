@@ -80,6 +80,7 @@
 
 <div class="recipe">
     <h2>🥗 Caesar Salad</h2>
+    <img src="cesarsalad.jpg" alt="Cesar Salad">
     <p><strong>Ingredients:</strong></p>
     <ul>
         <li>Romaine lettuce</li>
